@@ -1,0 +1,14 @@
+C:\Users\FISBITECH\Desktop\New Project\New folder\ColorSelector\bin\Debug\net8.0\ColorSelector.exe
+C:\Users\FISBITECH\Desktop\New Project\New folder\ColorSelector\bin\Debug\net8.0\ColorSelector.deps.json
+C:\Users\FISBITECH\Desktop\New Project\New folder\ColorSelector\bin\Debug\net8.0\ColorSelector.runtimeconfig.json
+C:\Users\FISBITECH\Desktop\New Project\New folder\ColorSelector\bin\Debug\net8.0\ColorSelector.dll
+C:\Users\FISBITECH\Desktop\New Project\New folder\ColorSelector\bin\Debug\net8.0\ColorSelector.pdb
+C:\Users\FISBITECH\Desktop\New Project\New folder\ColorSelector\obj\Debug\net8.0\ColorSelector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FISBITECH\Desktop\New Project\New folder\ColorSelector\obj\Debug\net8.0\ColorSelector.AssemblyInfoInputs.cache
+C:\Users\FISBITECH\Desktop\New Project\New folder\ColorSelector\obj\Debug\net8.0\ColorSelector.AssemblyInfo.cs
+C:\Users\FISBITECH\Desktop\New Project\New folder\ColorSelector\obj\Debug\net8.0\ColorSelector.csproj.CoreCompileInputs.cache
+C:\Users\FISBITECH\Desktop\New Project\New folder\ColorSelector\obj\Debug\net8.0\ColorSelector.dll
+C:\Users\FISBITECH\Desktop\New Project\New folder\ColorSelector\obj\Debug\net8.0\refint\ColorSelector.dll
+C:\Users\FISBITECH\Desktop\New Project\New folder\ColorSelector\obj\Debug\net8.0\ColorSelector.pdb
+C:\Users\FISBITECH\Desktop\New Project\New folder\ColorSelector\obj\Debug\net8.0\ColorSelector.genruntimeconfig.cache
+C:\Users\FISBITECH\Desktop\New Project\New folder\ColorSelector\obj\Debug\net8.0\ref\ColorSelector.dll
