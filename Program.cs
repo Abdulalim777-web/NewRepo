@@ -8,10 +8,22 @@ string colorName = Console.ReadLine()!;
 switch (colorName)
 {
     case "red":
+        Consolecolor.Red;
+        Console.ResetColor();
+        break;
     case "blue":
+        
+         Consolecolor.Blue;
+         Console.ResetColor();
+        break;
     case "green":
+        
+         Consolecolor.Green;
+        Console.ResetColor();
+        break;
     case "yellow":
-     ConsoleColor.colorName;
+         ConsoleColor.yellow;
+        Console.ResetColor();
         break;
     default: 
     Console.WriteLine("Enter a valid colour");
